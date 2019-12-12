@@ -1,8 +1,8 @@
 ## app-template
-智慧病房前端业务模板
+web端产品业务模板
 1. 项目获取
 ```
-git clone http://gitlab-iot.yzs.io/lucky/app-template.git
+git clone https://github.com/hanyueqiang/app-template.git
 ```
 2. 进入文件夹，安装依赖
 ```
@@ -30,8 +30,6 @@ yarn build(推荐) 或 npm run build
 3. 如果对接真实后端数据接口，打开.umirc.js 修改代理proxy为接口所在的ip及端口号;
 
 ## 注意
-
-禁止向模板主分支提交代码
 
 设置为新项目需修改远程仓库地址
 
